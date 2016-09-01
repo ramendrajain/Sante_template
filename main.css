@@ -1,0 +1,261 @@
+@font-face {
+    font-family: sanspro;
+    src: url(fonts/SourceSansPro-ExtraLight.otf);
+}
+body{
+    font-family: sanspro;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+}
+.sante-nav{
+  position: absolute;
+  top: 0%;
+  width: 100%;
+  padding: 2% 5%;
+}
+.sante-nav > .navbar-inverse{
+  background-color: transparent;
+  border: none;
+}
+.sante-caption{
+  position: absolute;
+  top: 30%;
+  width: 100%;
+  padding: 2% 5%;
+  text-align: center;
+}
+.sante-caption  .slogan{
+  font-size: 60px;
+  color: #ffffff;
+}
+.sante-caption  .subslogan{
+  font-size: 30px;
+  color: #a5a2a2;
+  margin-bottom: 70px;
+}
+.sante-caption  .get-start{
+  font-size: 25px;
+  color: #ffffff;
+  background-color: #f59916;
+  border-color: #f59916;
+  padding: 5px 40px;
+}
+.sante-caption  .scroll-down{
+  font-size: 10px;
+  color: #a5a2a2;
+}
+.sante-caption  .glyphicon-chevron-down{
+  font-size: 20px;
+  color: #a5a2a2;
+}
+
+.marketplace h2{
+  text-align: center;
+  margin: 50px 0px 20px 0px;
+  font-size: 34px;
+  color: #211b11;
+  
+}
+.marketplace p{
+  font-size: 14px;
+}
+.marketplace hr{
+  max-width: 130px;
+  border-top: 2px solid #f59916;
+  padding-bottom: 20px;
+}
+.left_marketsolutions{
+  background-color: #211b11;
+  text-align: center;
+  color: white;
+  padding: 30px 0px 20px 0px;
+
+}
+.left_marketsolutions p{
+  width: 70%;
+  margin: 0px auto;
+}
+.left_marketsolutions h3{
+  margin: 25px ;
+}
+.read_more{
+  font-size: 15px;
+  color: #ffffff;
+  background-color: #f59916;
+  border-color: #f59916;
+  padding: 5px 25px;
+  margin: 30px;
+}
+ .success-stories {
+  text-align: center;
+  margin: 30px 0px;
+  padding-top: 70px;
+  
+}
+.fle{
+  display: flex;
+}
+.img-left{
+  padding: 0px;
+  flex: 1;
+}
+.stories_text{
+  background-color: #DADADA;
+  padding: 0px;
+  flex: 1;
+}
+.stories_text p{
+      padding: 10px 5px;
+}
+.strategy{
+     
+    text-align: left;
+    font-size: 16px;
+    padding: 70px 5px;
+
+}
+.features .container{
+  padding: 0 100px;
+}
+.partners{
+  margin: 30px auto;
+}
+.started hr, .partners hr, .success-stories hr, .markeplace hr, .features hr{
+  max-width: 130px;
+  border-top: 2px solid #f59916;
+}
+.started h2, .partners h2, .features h2{
+  text-align: center;
+  font-size: 34px;
+  color: #211b11;
+  
+}
+.arrow-down{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.features h3{
+  display: inline-block;
+  color: #ff9900;
+  font-size: 24px;
+  
+}
+.text-center{
+  text-align: center;
+}
+.left-feature{
+  text-align: right;
+  /*width: 80%;*/
+}
+
+.left-feature img{
+  padding-right: 30px;
+
+}
+.features p {
+  font-size: 16px;
+  color: #003333;
+  font-weight: 600;
+}
+
+.right-feature{
+  text-align: left;
+  /*width: 80%;*/
+}
+
+.right-feature img{
+  padding-left: 30px;
+
+}
+
+.text-left{
+  text-align: left;
+}
+.text-right{
+  text-align: right;
+}
+.partners{
+  margin: 50px auto;
+}
+.marketplace .elearning{
+  position: absolute;
+}
+.started p{
+  text-align: center;
+  max-width: 65%;
+  margin: 0 auto;
+  font-size: 18px;
+}
+.started button{
+  padding: 5px 20px;
+}
+.contact_details{
+  background-color: #211b11;
+}
+.spancolor{
+  color: #f59916;
+}
+
+.copyright{
+  text-align: center;
+  background-color: #211b11;
+  color: #DADADA;
+  font-size: 16px;
+}
+.copyright hr{
+      margin: 0 auto;
+}
+.copyright div{
+  margin-top: 10px;
+    padding: 20px;
+}
+.bottom-space{
+  margin-bottom:  10px;
+
+}
+.parenttype{
+  position: relative;
+}
+.type{
+  position: absolute;
+  top: 40%;
+  left:0;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  width: 100%;
+
+}
+.container-fluid img{
+  max-width: 100%;
+}
+.sante_client{
+  margin: 50px 0px;
+  color: #DADADA;
+}
+.sante_client p{
+  margin: 20px 0px;
+  font-size: 16px;
+}
+.sante_contact{
+  margin: 30px 0px;
+  
+
+}
+.sante_contact h3{
+  color: #f59916;
+  font-family: arial;
+}
+.office_address h4{
+  color: #f59916;
+  margin: 17px 0px;
+  font-weight: 600;
+}
+.office_address{
+  color: #DADADA;
+}

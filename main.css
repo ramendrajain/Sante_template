@@ -22,19 +22,15 @@ body{
 }
 .sante-caption{
   position: absolute;
-  top: 30%;
   width: 100%;
   padding: 2% 5%;
   text-align: center;
 }
 .sante-caption  .slogan{
-  font-size: 60px;
   color: #ffffff;
 }
 .sante-caption  .subslogan{
-  font-size: 30px;
   color: #a5a2a2;
-  margin-bottom: 70px;
 }
 .sante-caption  .get-start{
   font-size: 25px;
@@ -57,7 +53,7 @@ body{
   margin: 50px 0px 20px 0px;
   font-size: 34px;
   color: #211b11;
-  
+
 }
 .marketplace p{
   font-size: 14px;
@@ -92,12 +88,8 @@ body{
  .success-stories {
   text-align: center;
   margin: 30px 0px;
-  padding-top: 70px;
-  
 }
-.fle{
-  display: flex;
-}
+
 .img-left{
   padding: 0px;
   flex: 1;
@@ -111,14 +103,11 @@ body{
       padding: 10px 5px;
 }
 .strategy{
-     
+
     text-align: left;
     font-size: 16px;
     padding: 70px 5px;
 
-}
-.features .container{
-  padding: 0 100px;
 }
 .partners{
   margin: 30px auto;
@@ -131,7 +120,7 @@ body{
   text-align: center;
   font-size: 34px;
   color: #211b11;
-  
+
 }
 .arrow-down{
   margin-top: 20px;
@@ -142,23 +131,14 @@ body{
 .features h3{
   display: inline-block;
   color: #ff9900;
-  font-size: 24px;
-  
 }
 .text-center{
   text-align: center;
 }
-.left-feature{
-  text-align: right;
-  /*width: 80%;*/
-}
 
-.left-feature img{
-  padding-right: 30px;
 
-}
+
 .features p {
-  font-size: 16px;
   color: #003333;
   font-weight: 600;
 }
@@ -168,10 +148,6 @@ body{
   /*width: 80%;*/
 }
 
-.right-feature img{
-  padding-left: 30px;
-
-}
 
 .text-left{
   text-align: left;
@@ -187,7 +163,6 @@ body{
 }
 .started p{
   text-align: center;
-  max-width: 65%;
   margin: 0 auto;
   font-size: 18px;
 }
@@ -211,7 +186,7 @@ body{
       margin: 0 auto;
 }
 .copyright div{
-  margin-top: 10px;
+
     padding: 20px;
 }
 .bottom-space{
@@ -235,17 +210,11 @@ body{
   max-width: 100%;
 }
 .sante_client{
-  margin: 50px 0px;
   color: #DADADA;
 }
 .sante_client p{
   margin: 20px 0px;
   font-size: 16px;
-}
-.sante_contact{
-  margin: 30px 0px;
-  
-
 }
 .sante_contact h3{
   color: #f59916;

@@ -1,0 +1,133 @@
+@media (max-width: 768px) {
+  .carousel-img{
+    min-height: 320px;
+  }
+  .sante-nav{
+    z-index: 2;
+  }
+  .sante-caption{
+    top: 10%;
+  }
+  .sante-caption  .slogan{
+    font-size: 25px;
+  }
+  .sante-caption  .subslogan{
+    font-size: 15px;
+  }
+  .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    background-color: black;
+  }
+
+  .left-feature {
+    text-align: left;
+  }
+  .marketplace-card{
+    margin-bottom: 15px;
+  }
+  .left-feature img {
+    padding-right: 5px;
+  }
+  .features h3{
+    font-size: 18px !important;
+  }
+  .right-feature h3{
+    padding-left: 10px;
+  }
+  .right-feature img{
+    float: left;
+  }
+  .features p{
+    font-size: 15px;
+  }
+  .parenttype {
+    margin-bottom: 10px;
+  }
+  .sante_client{
+    margin: 30px 0px 0px 0px;
+  }
+  .img-left img, .parenttype >img{
+    width: 100%;
+  }
+
+
+}
+@media (min-width: 768px) and (max-width: 992px) {
+   .features h3{
+    font-size: 21px;
+  }
+  .img-left img{
+    width:100%;
+  }
+}
+@media (min-width: 768px) and (max-width: 1200px) {
+  .sante-caption{
+    top: 10%;
+  }
+  .sante-caption  .slogan{
+    font-size: 45px;
+  }
+  .sante-caption  .subslogan{
+    font-size: 25px;
+    margin-bottom: 50px;
+  }
+  .left-feature {
+    text-align: right;
+  }
+}
+
+@media (min-width: 768px) {
+  .left-feature img{
+    padding-right: 30px;
+  }
+  .right-feature img{
+    padding-left: 30px;
+  }
+  .features p {
+    font-size: 16px;
+  }
+   .success-stories {
+    padding-top: 70px;
+  }
+  .sante_client{
+    margin: 50px 0px;
+  }
+  .sante_contact{
+    margin: 30px 0px;
+  }
+  .started p{
+    max-width: 65%;
+  }
+  .left-feature{
+    text-align: right;
+  }
+}
+
+@media (min-width: 992px) {
+   .features h3{
+    font-size: 24px;
+  }
+  .fle{
+    display: flex;
+  }
+}
+
+@media (min-width: 1200px) {
+   .features .container{
+    padding: 0 100px;
+  }
+  .sante-caption{
+    top: 30%;
+  }
+  .sante-caption  .slogan{
+    font-size: 60px;
+  }
+  .sante-caption  .subslogan{
+    font-size: 30px;
+    margin-bottom: 70px;
+  }
+
+}
+
+
+
+
